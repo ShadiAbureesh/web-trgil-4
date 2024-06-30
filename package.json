@@ -124,3 +124,6 @@
   },
   "homepage": "https://github.com/ShadiAbureesh/exercise2#readme"
 }
+"optionalDependencies": {
+  "fsevents": "^2.3.3"
+}
